@@ -1,53 +1,197 @@
-# BridgeLabz_Java_CG
+BridgeLabz Java Training – Daily Learning Log
 
-In this Readme documentation, I'll keep updating my learnings which I gain while attending the training from BridgeLabz.
+This repository documents my daily learnings, practice, and progress during the Java training program at BridgeLabz.
+I will continue updating this README as I advance through the course.
 
-# 8th December, 2025
+📅 Training Progress
+8th December, 2025
+
 What I’ve done:
 
-+Downloaded IntelliJ IDEA
-+Started with Java basics
+Downloaded IntelliJ IDEA
+
+Started with Java basics
 
 What I will do next:
 
-+Learn Java fundamentals
+Learn Java fundamentals
 
 Issues:
 
-+None
-# 9th December, 2025
+None
+
+9th December, 2025
+
 What I’ve done:
 
-+Learnt Java syntax, variables, and data types
+Learnt Java syntax, variables, and data types
 
 What I will do next:
 
-+Learn conditional statements and loops
+Learn conditional statements and loops
+
 Issues:
 
-+Confusion in syntax between java and C++
+None
 
-# 10th December, 2025
+10th December, 2025
+
 What I’ve done:
 
-+Learnt Java methods
+Learnt Java methods
 
 What I will do next:
 
-+Complete basic programming questions provided
+Complete basic programming questions provided
 
 Issues:
 
-+None
-# 11th December, 2025
+None
+
+11th December, 2025
+
 What I’ve done:
 
-+Completed basic programming questions
+Completed basic programming questions
 
 What I will do next:
 
-+Complete programming questions provided on methods
+Complete programming questions provided on methods
 
 Issues:
 
-+None
+None
+
+12th December, 2025
+
+What I’ve done:
+
+Completed programming questions on methods
+
+What I will do next:
+
+Practice more problems on the provided topics
+
+Issues:
+
+None
+
+14th December, 2025
+
+What I’ve done:
+
+Completed problems on core and programming elements (all levels)
+
+What I will do next:
+
+Complete problems on control flow
+
+Issues:
+
+None
+
+15th December, 2025
+
+What I’ve done:
+
+Completed problems on control flow (all levels)
+
+What I will do next:
+
+Complete problems on arrays
+
+Issues:
+
+Faced issues while solving while loop problems
+
+16th December, 2025
+
+What I’ve done:
+
+Completed array problems till Level 2
+
+What I will do next:
+
+Complete Level 3 array problems
+
+Start problems on methods
+
+Issues:
+
+Faced issues while solving 2D array problems
+
+17th December, 2025
+
+What I’ve done:
+
+Completed Level 3 array problems
+
+Completed methods problems till Level 2
+
+What I will do next:
+
+Complete Level 2 and Level 3 problems on methods
+
+Issues:
+
+Faced difficulties while solving 2D array problems
+
+18th December, 2025
+
+What I’ve done:
+
+Completed part of Level 3 problems in methods
+
+What I will do next:
+
+Complete remaining Level 3 problems in methods
+
+Issues:
+
+Faced issues while solving problems involving combinations of 2D arrays and methods
+
+19th December, 2025
+
+What I’ve done:
+
+Completed Level 3 problems in methods
+
+Attended review session
+
+What I will do next:
+
+Focus on improving based on review comments
+
+Issues:
+
+Facing difficulties while deciding program logic
+
+20th December, 2025
+
+What I’ve done:
+
+Completed methods Level 3
+
+Completed a few problems in Strings (Level 1)
+
+What I will do next:
+
+Complete remaining problems in Strings
+
+Issues:
+
+Faced issues while using loops to iterate through strings
+
+22nd December, 2025
+
+What I’ve done:
+
+Completed string and extract practice problems
+
+What I will do next:
+
+Complete problems on Object-Oriented Programming (OOPs)
+
+Issues:
+
+Faced issues while solving problems involving combinations of 2D arrays and strings
