@@ -133,7 +133,7 @@ In this Readme documentation, I'll keep updating my learnings which I gain while
 - Complete remaining Level 3 problems in methods
 
 ### Issues:
-- Faced issues while solving problems involving combinations of 2D arrays and methods
+- Faced issues while solving methods
 
 ---
 
@@ -147,7 +147,7 @@ In this Readme documentation, I'll keep updating my learnings which I gain while
 - Focus on improving based on review comments
 
 ### Issues:
-- Facing difficulties while deciding program logic
+- Facing difficulties on implementing the program logic.
 
 ---
 
@@ -175,3 +175,43 @@ In this Readme documentation, I'll keep updating my learnings which I gain while
 
 ### Issues:
 - Faced issue while solving problems involving 2D array and string combinations
+
+
+---
+
+## 23rd December, 2025
+
+### What I've done:
+- Completed problem on OOPs
+
+### What I will do next:
+-None
+
+### Issues:
+- Understanding class and objects.
+
+---
+
+### 8th January, 2026
+
+### What I've done:
+-Completed Git and GitFlow
+
+### What I will do next:
+-None
+
+### Issues:
+- Understanding the working of gitflow.
+
+---
+
+### 9th January, 2026
+
+### What I've done:
+- Completed questions of static
+
+### What I will do next:
+- The incomplete questions
+
+### Issuses:
+- None
