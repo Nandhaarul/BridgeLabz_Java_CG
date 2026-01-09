@@ -2,7 +2,7 @@
 
 In this Readme documentation, I'll keep updating my learnings which I gain while attending the training from BridgeLabz.
 
-8th December, 2025
+#8th December, 2025
 What I’ve done:
 
 Downloaded IntelliJ IDEA
@@ -13,7 +13,7 @@ Learn Java fundamentals
 Issues:
 
 None
-9th December, 2025
+#9th December, 2025
 What I’ve done:
 
 Learnt Java syntax, variables, and data types
