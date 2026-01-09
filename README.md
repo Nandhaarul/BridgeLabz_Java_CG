@@ -1,197 +1,177 @@
-BridgeLabz Java Training – Daily Learning Log
+# BridgeLabz_Java
 
-This repository documents my daily learnings, practice, and progress during the Java training program at BridgeLabz.
-I will continue updating this README as I advance through the course.
+In this Readme documentation, I'll keep updating my learnings which I gain while attending the training from BridgeLabz.
 
-📅 Training Progress
-8th December, 2025
+---
 
-What I’ve done:
+## 8th December, 2025
 
-Downloaded IntelliJ IDEA
+### What I’ve done:
+- Downloaded IntelliJ IDEA
+- Started with Java basics
 
-Started with Java basics
+### What I will do next:
+- Learn Java fundamentals
 
-What I will do next:
+### Issues:
+- None
 
-Learn Java fundamentals
+---
 
-Issues:
+## 9th December, 2025
 
-None
+### What I’ve done:
+- Learnt Java syntax, variables, and data types
 
-9th December, 2025
+### What I will do next:
+- Learn conditional statements and loops
 
-What I’ve done:
+### Issues:
+- None
 
-Learnt Java syntax, variables, and data types
+---
 
-What I will do next:
+## 10th December, 2025
 
-Learn conditional statements and loops
+### What I’ve done:
+- Learnt Java methods
 
-Issues:
+### What I will do next:
+- Complete basic programming questions provided
 
-None
+### Issues:
+- None
 
-10th December, 2025
+---
 
-What I’ve done:
+## 11th December, 2025
 
-Learnt Java methods
+### What I’ve done:
+- Completed basic programming questions
 
-What I will do next:
+### What I will do next:
+- Complete programming questions provided on methods
 
-Complete basic programming questions provided
+### Issues:
+- None
 
-Issues:
+---
 
-None
+## 12th December, 2025
 
-11th December, 2025
+### What I’ve done:
+- Completed programming questions on methods
 
-What I’ve done:
+### What I will do next:
+- Practice more problems on the provided topics
 
-Completed basic programming questions
+### Issues:
+- None
 
-What I will do next:
+---
 
-Complete programming questions provided on methods
+## 14th December, 2025
 
-Issues:
+### What I’ve done:
+- Completed problems on core and programming elements (all levels)
 
-None
+### What I will do next:
+- Complete problems on control flow
 
-12th December, 2025
+### Issues:
+- None
 
-What I’ve done:
+---
 
-Completed programming questions on methods
+## 15th December, 2025
 
-What I will do next:
+### What I’ve done:
+- Completed problems on control flow (all levels)
 
-Practice more problems on the provided topics
+### What I will do next:
+- Complete problems on arrays
 
-Issues:
+### Issues:
+- Faced issues while solving while loop problems
 
-None
+---
 
-14th December, 2025
+## 16th December, 2025
 
-What I’ve done:
+### What I’ve done:
+- Completed array problems till Level 2
 
-Completed problems on core and programming elements (all levels)
+### What I will do next:
+- Complete Level 3 array problems
+- Start problems on methods
 
-What I will do next:
+### Issues:
+- Faced issues while solving 2D array problems
 
-Complete problems on control flow
+---
 
-Issues:
+## 17th December, 2025
 
-None
+### What I’ve done:
+- Completed Level 3 array problems
+- Completed methods problems till Level 2
 
-15th December, 2025
+### What I will do next:
+- Complete Level 2 and Level 3 problems on methods
 
-What I’ve done:
+### Issues:
+- Faced difficulties while solving 2D array problems
 
-Completed problems on control flow (all levels)
+---
 
-What I will do next:
+## 18th December, 2025
 
-Complete problems on arrays
+### What I’ve done:
+- Completed part of Level 3 problems in methods
 
-Issues:
+### What I will do next:
+- Complete remaining Level 3 problems in methods
 
-Faced issues while solving while loop problems
+### Issues:
+- Faced issues while solving problems involving combinations of 2D arrays and methods
 
-16th December, 2025
+---
 
-What I’ve done:
+## 19th December, 2025
 
-Completed array problems till Level 2
+### What I’ve done:
+- Completed Level 3 problems in methods
+- Attended review session
 
-What I will do next:
+### What I will do next:
+- Focus on improving based on review comments
 
-Complete Level 3 array problems
+### Issues:
+- Facing difficulties while deciding program logic
 
-Start problems on methods
+---
 
-Issues:
+## 20th December, 2025
 
-Faced issues while solving 2D array problems
+### What I’ve done:
+- Completed methods Level 3
+- Completed a few problems in Strings Level 1
 
-17th December, 2025
+### What I will do next:
+- Complete remaining problems in Strings
 
-What I’ve done:
+### Issues:
+- Faced issue while using loops to iterate in string, working on similar problems to improve
 
-Completed Level 3 array problems
+---
 
-Completed methods problems till Level 2
+## 22nd December, 2025
 
-What I will do next:
+### What I’ve done:
+- Completed string and extracts practice problems
 
-Complete Level 2 and Level 3 problems on methods
+### What I will do next:
+- Complete problems on OOPs
 
-Issues:
-
-Faced difficulties while solving 2D array problems
-
-18th December, 2025
-
-What I’ve done:
-
-Completed part of Level 3 problems in methods
-
-What I will do next:
-
-Complete remaining Level 3 problems in methods
-
-Issues:
-
-Faced issues while solving problems involving combinations of 2D arrays and methods
-
-19th December, 2025
-
-What I’ve done:
-
-Completed Level 3 problems in methods
-
-Attended review session
-
-What I will do next:
-
-Focus on improving based on review comments
-
-Issues:
-
-Facing difficulties while deciding program logic
-
-20th December, 2025
-
-What I’ve done:
-
-Completed methods Level 3
-
-Completed a few problems in Strings (Level 1)
-
-What I will do next:
-
-Complete remaining problems in Strings
-
-Issues:
-
-Faced issues while using loops to iterate through strings
-
-22nd December, 2025
-
-What I’ve done:
-
-Completed string and extract practice problems
-
-What I will do next:
-
-Complete problems on Object-Oriented Programming (OOPs)
-
-Issues:
-
-Faced issues while solving problems involving combinations of 2D arrays and strings
+### Issues:
+- Faced issue while solving problems involving 2D array and string combinations
