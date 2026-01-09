@@ -185,27 +185,27 @@ In this Readme documentation, I'll keep updating my learnings which I gain while
 - Completed problem on OOPs
 
 ### What I will do next:
--None
+- None
 
 ### Issues:
 - Understanding class and objects.
 
 ---
 
-### 8th January, 2026
+## 8th January, 2026
 
 ### What I've done:
--Completed Git and GitFlow
+- Completed Git and GitFlow
 
 ### What I will do next:
--None
+- None
 
 ### Issues:
 - Understanding the working of gitflow.
 
 ---
 
-### 9th January, 2026
+## 9th January, 2026
 
 ### What I've done:
 - Completed questions of static
