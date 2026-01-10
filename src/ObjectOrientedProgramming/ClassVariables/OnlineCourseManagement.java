@@ -1,4 +1,4 @@
-package CoreProgramming.ClassVariables;
+package ObjectOrientedProgramming.ClassVariables;
 
 import java.util.Scanner;
 
