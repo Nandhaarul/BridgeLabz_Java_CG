@@ -215,3 +215,16 @@ In this Readme documentation, I'll keep updating my learnings which I gain while
 
 ### Issuses:
 - None
+
+---
+
+## 10th January, 2026
+
+### What I've done:
+- Completed questions of yesterday and questions from object modelling
+
+### What I will do next:
+- Class diagrams
+
+### Issuses:
+- None
